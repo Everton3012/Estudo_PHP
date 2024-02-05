@@ -11,7 +11,6 @@
         // Capturando os dados do Formulário Retroalimentado
         $valor1 = $_GET['v1'] ?? 0;
         $valor2 = $_GET['v2'] ?? 0;
-
     ?>
     <main>
         <h1>Somador de Valores</h1>
